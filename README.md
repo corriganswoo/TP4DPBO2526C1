@@ -39,6 +39,8 @@ Merupakan kelas utama penangan tampilan GUI sekaligus logika bisnis dari aplikas
 - JComboBox $\rightarrow$ Pilihan Kategori dan Gender
 - JTable $\rightarrow$ Menampilkan daftar person yang terdaftar
 - JButton $\rightarrow$ Tombol aksi Add/Update, Cancel, dan Delete
+  
+![Gui](Dokumentasi/gui.png)
 
 **Metode Utama:**
 - insertData() $\rightarrow$ Menambahkan entri data person baru
@@ -80,13 +82,13 @@ Merupakan kelas utama penangan tampilan GUI sekaligus logika bisnis dari aplikas
 # 📸 DOKUMENTASI JALANNYA PROGRAM
 
 ## READ (Tampilan Utama)
-![Read Data](assets/Read.png)
+![Read Data](Dokumentasi/read.png)
 
 ## ADD (Tambah Data)
-![Add Data](assets/Add.gif)
+![Add Data](Dokumentasi/add.gif)
 
 ## UPDATE (Ubah Data)
-![Update Data](assets/Update.gif)
+![Update Data](Dokumentasi/update.gif)
 
 ## DELETE (Hapus Data)
-![Delete Data](assets/Delete.gif)
+![Delete Data](Dokumentasi/delete.gif)
